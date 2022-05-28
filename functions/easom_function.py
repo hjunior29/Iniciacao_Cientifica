@@ -2,6 +2,7 @@ import numpy as np
 def EASOM(X):
     """
     Easom benchmark function D-dimension
+    https://www.sfu.ca/~ssurjano/easom.html
     """
     X_1 = X[0]
     X_2 = X[1]

@@ -2,6 +2,7 @@ import numpy as np
 def MICHALEWICS(X):
     """
     Michalewicz benchmark function D-dimension
+    https://www.sfu.ca/~ssurjano/michal.html
     """
     DIM = len(X)
     SUM = 0

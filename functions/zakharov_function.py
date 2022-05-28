@@ -1,6 +1,7 @@
 def ZAKHAROV(X):
     """
     Zakharov benchmark function D-dimension
+    https://www.sfu.ca/~ssurjano/zakharov.html
     """
     DIM = len(X)
     SUM_1 = 0

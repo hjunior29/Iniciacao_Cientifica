@@ -2,6 +2,7 @@ import numpy as np
 def GRIEWANK(X):
     """
     Griewank benchmark function D-dimension
+    https://www.sfu.ca/~ssurjano/griewank.html
     """
     DIM = len(X)
     SUM = 0

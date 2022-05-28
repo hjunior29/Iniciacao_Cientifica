@@ -2,6 +2,7 @@ import numpy as np
 def ACKLEY(X):
     """
     Ackley benchmark function D-dimension
+    https://www.sfu.ca/~ssurjano/ackley.html
     """
     DIM = len(X)
     SUM1 = 0
